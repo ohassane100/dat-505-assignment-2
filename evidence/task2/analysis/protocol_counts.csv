@@ -1,0 +1,7 @@
+protocol,count
+TCP,22
+ARP,8
+DNS,6
+ICMP,6
+HTTP,4
+ICMPv6,2

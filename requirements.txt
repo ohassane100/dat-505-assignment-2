@@ -1,0 +1,2 @@
+scapy>=2.5.0
+#The parser uses csv and subprocess and thats from the Python standard library; no external dependencies are required.
