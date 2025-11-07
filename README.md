@@ -74,4 +74,4 @@ These scripts were created for Python 3. The `requirements.txt` file lists the n
 
 ## Disclaimer
 
-Note that this README used GitHub copilot to help autocomplete and modify some sections. Additionally, the code provided in this repository is for educational purposes only.  Always obtain proper authorization before testing or deploying any network security tools.  Misuse of these tools can lead to legal consequences and network disruptions.  The author is not responsible for any damage or legal issues arising from the use of this code.
+Note that this README used GitHub copilot to help paraphrase some sentences within this file. Additionally, the code provided in this repository is for educational purposes only.  Always obtain proper authorization before testing or deploying any network security tools.  Misuse of these tools can lead to legal consequences and network disruptions.  The author is not responsible for any damage or legal issues arising from the use of this code.
